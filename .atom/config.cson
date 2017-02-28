@@ -1,0 +1,40 @@
+"*":
+  "autoclose-html":
+    forceInline: [
+      "title"
+      "h1"
+      "h2"
+      "h3"
+      "h4"
+      "h5"
+      "h6"
+      "p"
+      "li"
+      "script"
+    ]
+  core:
+    disabledPackages: [
+      "linter-jshint"
+      "language-pug"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "b8dc80a8-b686-a0e2-3886-d8cf4b313458"
+  "language-babel":
+    transpileOnSave: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    autoIndent: true

@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+        "spec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/apm-install-dir-117020-38260-114al48"
+    ]
+  ],
+  "_from": "../d-117020-38260-1j2x8xh/package.tgz",
+  "_id": "language-pug-jade@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-pug-jade",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+    "spec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117020-38260-1j2x8xh/package.tgz",
+  "_shasum": "d8ccbfc34f590d9bb05981629b65ce90521e28f1",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117020-38260-1j2x8xh/package.tgz",
+  "_where": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/apm-install-dir-117020-38260-114al48",
+  "author": {
+    "name": "Seth Mcleod",
+    "email": "me@sethmcleod.com",
+    "url": "https://sethmcleod.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sethmcleod/language-pug/issues"
+  },
+  "dependencies": {},
+  "description": "🐶 Pug and Jade syntax highlighting",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "homepage": "https://github.com/sethmcleod/language-pug#readme",
+  "keywords": [
+    "atom",
+    "pug",
+    "jade",
+    "language"
+  ],
+  "license": "MIT",
+  "name": "language-pug-jade",
+  "optionalDependencies": {},
+  "readme": "# language-pug-jade\n\n[Pug](https://github.com/pugjs) _and_ **Jade** syntax highlighting for Atom, because name changes are confusing. Adapted from [atom-jade](https://github.com/devongovett/atom-jade) by [devongovett](https://github.com/devongovett).\n\nThis was originally just for my personal use since the [language-pug](https://github.com/genoma/language-pug) package by [genoma](https://github.com/genoma) has some highlighting issues. I don't plan on updating this, but will merge any _(decent)_ PRs that come through 👍\n\nThis _should_ support both Pug and Jade highlighting, but I have no idea what I'm doing 🤷\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethmcleod/language-pug.git"
+  },
+  "version": "0.1.2"
+}

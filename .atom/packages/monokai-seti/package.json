@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+        "spec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/apm-install-dir-117018-18749-1p7d2km"
+    ]
+  ],
+  "_from": "../d-117018-18749-11nen9d/package.tgz",
+  "_id": "monokai-seti@0.7.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/monokai-seti",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+    "spec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117018-18749-11nen9d/package.tgz",
+  "_shasum": "73a3f8365ee08b38adf047835087e3f65e2cf45b",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/d-117018-18749-11nen9d/package.tgz",
+  "_where": "/private/var/folders/0x/g1gvljgj4x7dvc31j30lx9pw0000gn/T/apm-install-dir-117018-18749-1p7d2km",
+  "bugs": {
+    "url": "https://github.com/schmitzjake/monokai-seti/issues"
+  },
+  "dependencies": {},
+  "description": "A monokai theme for the seti ui",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "homepage": "https://github.com/schmitzjake/monokai-seti#readme",
+  "license": "MIT",
+  "name": "monokai-seti",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# Monokai-seti theme\n\nA monokai syntax theme for the seti-ui for Atom.\n\nForked from the atom monokai syntax theme.\n\n![](https://i.imgur.com/xBHmpMA.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmitzjake/monokai-seti.git"
+  },
+  "theme": "syntax",
+  "version": "0.7.0"
+}
